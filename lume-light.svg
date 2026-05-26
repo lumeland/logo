@@ -34,7 +34,7 @@
     cx="221.877"
     cy="271.5"
     r="171.5"
-    fill="url(#paint0_radial_41_290)"
+    fill="url(#lume-gradiant-light)"
   />
   <path
     fill="#000"
@@ -46,7 +46,7 @@
   />
   <defs>
     <radialGradient
-      id="paint0_radial_41_290"
+      id="lume-gradiant-light"
       cx="0"
       cy="0"
       r="1"
